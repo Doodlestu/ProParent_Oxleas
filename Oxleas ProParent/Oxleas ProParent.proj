@@ -3,7 +3,7 @@
   <PropertyGroup>
     <ProjectGuid>e070f4cf-1fef-48ec-b3f7-1d79f41e5b62</ProjectGuid>
     <ProjectTypeGuids>{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}</ProjectTypeGuids>
-    <AppIdentifier>com.echohealthsolutions.pp</AppIdentifier>
+    <AppIdentifier>uk.co.info-max.healthvisitor</AppIdentifier>
     <ProjectName>Oxleas ProParent</ProjectName>
     <IsRunnable>true</IsRunnable>
     <FrameworkVersion>3.2.0</FrameworkVersion>
